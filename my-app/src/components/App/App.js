@@ -1,8 +1,8 @@
 import './App.css';
-
+import Header from '../Header/header';
 function App() {
   return (
-    <h1>5656</h1>
+    <Header></Header>
   );
 }
 

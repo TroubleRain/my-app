@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+    max-width: 1200px; /* или любое другое значение ширины, которое вам нужно */
+    margin: 0 auto;
+    box-sizing: border-box; /* чтобы внутренние отступы учитывались в общей ширине контейнера */
+    /* Другие стили контейнера */
+}
+
+.container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -9999px;
+    right: -9999px;
+    bottom: 0;
+    z-index: -1;
+}

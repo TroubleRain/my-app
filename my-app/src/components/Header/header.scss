@@ -1,0 +1,60 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -9999px;
+    right: -9999px;
+    bottom: 0;
+    z-index: -1;
+    background-color: #081B15;
+}
+
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        display: inline-block;
+        margin-right: 20px;
+
+        a {
+          text-decoration: none;
+            &:hover {
+          }
+        }
+      }
+    }
+  }
+}
+/* Стили для основного контейнера инпута */
+.search {
+  flex: 0.2 1 300px;
+  // .search__input
+
+  &__input {
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    width: 100%;
+    &:focus {
+      outline: none;
+      border-color: dodgerblue;
+    }
+  }
+}
