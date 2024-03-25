@@ -1,0 +1,130 @@
+{
+    "books": [
+      {
+        "title": "The Lord of the Rings",
+        "author": "J. R. R. Tolkien",
+        "year": 1954,
+        "genre": "Fantasy"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian fiction"
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Historical fiction"
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Novel"
+      },
+      {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "year": 1603,
+        "genre": "Tragedy"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "year": 1951,
+        "genre": "Coming-of-age novel"
+      },
+      {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "year": 1997,
+        "genre": "Epic poem"
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "year": 1967,
+        "genre": "Magical realism"
+      },
+      {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Novel"
+      },
+      {
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "year": 1985,
+        "genre": "Dystopian fiction"
+      },
+      {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "year": 1847,
+        "genre": "Gothic romance"
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author": "Ken Kesey",
+        "year": 1962,
+        "genre": "Novel"
+      },
+      {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year": 1885,
+        "genre": "Satire"
+      },
+      {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "year": 1958,
+        "genre": "Postcolonial novel"
+      },
+      {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "year": 1952,
+        "genre": "African American literature"
+      },
+      {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "year": 1605,
+        "genre": "Novel"
+      },
+      {
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "year": 1947,
+        "genre": "Memoir"
+      },
+      {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": 1866,
+        "genre": "Psychological thriller"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance novel"
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": 1890,
+        "genre": "Gothic fiction"
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "year": 1979,
+        "genre": "Science fiction"
+      }
+    ]
+  }
