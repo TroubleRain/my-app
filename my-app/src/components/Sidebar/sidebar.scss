@@ -1,0 +1,14 @@
+.genres{
+    margin-top: 5%;
+    padding: 15px;
+    width: 250px;
+    &__names{
+        display: flex;
+        flex-direction: column;
+        font-size: 18px;
+        gap: 8px;
+    }
+    &__name{
+        color: black;
+    }
+}

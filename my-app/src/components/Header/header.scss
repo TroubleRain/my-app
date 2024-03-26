@@ -48,13 +48,20 @@ header {
   // .search__input
 
   &__input {
-    padding: 10px;
+    padding:10px 10px 10px 20px;
     border-radius: 5px;
     color: black;
     width: 100%;
+    background: url('../../img/search.svg') no-repeat 95% center, white;
     &:focus {
       outline: none;
       border-color: dodgerblue;
     }
   }
 }
+// .search-input {
+  // border: none;
+  // outline: none;
+  // padding:5px 5px 5px 35px;
+  // background: url('../../../img/search.svg') no-repeat 10px center;
+// }

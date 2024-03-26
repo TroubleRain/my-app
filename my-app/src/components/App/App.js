@@ -1,9 +1,12 @@
-import './App.css';
-import Header from '../Header/header';
+import "./App.css";
+import Header from "../header/header";
+import ContetnWrapper from "../contentWrapper/contentWrapper";
 function App() {
   return (
-    <Header></Header>
-    
+    <>
+      <Header></Header>
+      <ContetnWrapper></ContetnWrapper>
+    </>
   );
 }
 

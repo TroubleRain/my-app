@@ -6,12 +6,12 @@
     /* Другие стили контейнера */
 }
 
-.container::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: -9999px;
-    right: -9999px;
-    bottom: 0;
-    z-index: -1;
-}
+// .container::before {
+//     content: "";
+//     position: absolute;
+//     top: 0;
+//     left: -9999px;
+//     right: -9999px;
+//     bottom: 0;
+//     z-index: -1;
+// }

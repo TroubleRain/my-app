@@ -11,6 +11,9 @@
   box-sizing: border-box;
   color: white;
 }
+ol {
+  list-style-type: none;
+}
  html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
